@@ -1,0 +1,21 @@
+body{
+    /* display: flex; */
+    /* margin: 0; */
+    background-color:#d4dcf1;
+    /* flex-direction: column; */
+    /* border: 2px black;
+    padding: 10px; */
+}
+#root{
+    display: flex;
+    margin: 0;
+    background-color:#d4dcf1;
+    flex-direction: row;
+    padding: 10px;
+}
+/* Sidebar{
+width: 40%;
+} */
+/* Mainbar{
+    
+} */
